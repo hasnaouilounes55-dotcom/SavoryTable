@@ -1,0 +1,8 @@
+{
+  "name": "SavoryTable - Artisan Recipes & Culinary Guide",
+  "description": "Discover curated artisan recipes with detailed step-by-step tutorials, dynamic ingredient scaling, video guides, AI-powered recipe recommendations, and a personal cookbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
